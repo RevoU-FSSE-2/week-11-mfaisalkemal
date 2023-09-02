@@ -1,4 +1,5 @@
-# Blood Donor API with Typescript, NodeJS, Express, MongoDB, Bcrypt, Swagger
+# Blood Donor API Integrated With Bing Map API
+This project is used to collect registrations from individuals who want to donate their blood. Registrants can also search for compatible blood types, which will be sorted by the nearest distance based on postal codes. The distance is calculated by integrating the Bing Maps API.
 ## LOCALHOST
 - http://127.0.0.1:3000/swaggeropenapi/
 - http://127.0.0.1:3000/register/
